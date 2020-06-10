@@ -1,0 +1,47 @@
+/home/kirill2000/clion-2020.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/usr/bin/make -DCMAKE_C_COMPILER=/usr/bin/gcc -DCMAKE_CXX_COMPILER=/usr/bin/g++ -G "CodeBlocks - Unix Makefiles" /home/kirill2000/LABA10
+-- The C compiler identification is GNU 7.5.0
+-- The CXX compiler identification is GNU 7.5.0
+-- Check for working C compiler: /usr/bin/gcc
+-- Check for working C compiler: /usr/bin/gcc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/g++
+-- Check for working CXX compiler: /usr/bin/g++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- [hunter] Calculating Toolchain-SHA1
+-- [hunter] Calculating Config-SHA1
+-- [hunter] HUNTER_ROOT: /home/kirill2000/.hunter
+-- [hunter] [ Hunter-ID: 9a3594a | Toolchain-ID: 9b2c9d4 | Config-ID: 48401e9 ]
+-- [hunter] GTEST_ROOT: /home/kirill2000/.hunter/_Base/9a3594a/9b2c9d4/48401e9/Install (ver.: 1.8.0-hunter-p11)
+-- [hunter] BOOST_ROOT: /home/kirill2000/.hunter/_Base/9a3594a/9b2c9d4/48401e9/Install (ver.: 1.70.0-p0)
+-- [hunter] BOOST_ROOT: /home/kirill2000/.hunter/_Base/9a3594a/9b2c9d4/48401e9/Install (ver.: 1.70.0-p0)
+-- [hunter] BOOST_ROOT: /home/kirill2000/.hunter/_Base/9a3594a/9b2c9d4/48401e9/Install (ver.: 1.70.0-p0)
+-- [hunter] BOOST_ROOT: /home/kirill2000/.hunter/_Base/9a3594a/9b2c9d4/48401e9/Install (ver.: 1.70.0-p0)
+-- [hunter] BOOST_ROOT: /home/kirill2000/.hunter/_Base/9a3594a/9b2c9d4/48401e9/Install (ver.: 1.70.0-p0)
+-- Boost version: 1.70.0
+-- Found the following Boost libraries:
+--   program_options
+--   thread
+--   log
+--   log_setup
+--   filesystem
+-- Looking for pthread.h
+-- Looking for pthread.h - found
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+-- Looking for pthread_create in pthreads
+-- Looking for pthread_create in pthreads - not found
+-- Looking for pthread_create in pthread
+-- Looking for pthread_create in pthread - found
+-- Found Threads: TRUE  
+-- Looking for clock_gettime
+-- Looking for clock_gettime - found
+-- [hunter] ROCKSDB_ROOT: /home/kirill2000/.hunter/_Base/9a3594a/9b2c9d4/48401e9/Install (ver.: 5.14.2)
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/kirill2000/LABA10/cmake-build-debug

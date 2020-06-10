@@ -1,0 +1,5 @@
+/home/kirill2000/LABA10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kirill2000/LABA10/cmake-build-debug/CMakeFiles/dbcs.dir
+/home/kirill2000/LABA10/cmake-build-debug/CMakeFiles/test.dir
+/home/kirill2000/LABA10/cmake-build-debug/CMakeFiles/tests.dir
+/home/kirill2000/LABA10/cmake-build-debug/CMakeFiles/edit_cache.dir

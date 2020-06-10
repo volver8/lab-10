@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdbcsd.a  CMakeFiles/dbcs.dir/sources/main.cpp.o CMakeFiles/dbcs.dir/sources/Utils.cpp.o CMakeFiles/dbcs.dir/sources/LogSetup.cpp.o CMakeFiles/dbcs.dir/sources/Settings.cpp.o CMakeFiles/dbcs.dir/sources/DbActions.cpp.o
+/usr/bin/ranlib libdbcsd.a
